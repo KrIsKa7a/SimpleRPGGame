@@ -1,0 +1,8 @@
+D:\Homeworks\C#\SimpleRPGGame\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+D:\Homeworks\C#\SimpleRPGGame\Engine\bin\Debug\netstandard2.0\Engine.dll
+D:\Homeworks\C#\SimpleRPGGame\Engine\bin\Debug\netstandard2.0\Engine.pdb
+D:\Homeworks\C#\SimpleRPGGame\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+D:\Homeworks\C#\SimpleRPGGame\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+D:\Homeworks\C#\SimpleRPGGame\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+D:\Homeworks\C#\SimpleRPGGame\Engine\obj\Debug\netstandard2.0\Engine.dll
+D:\Homeworks\C#\SimpleRPGGame\Engine\obj\Debug\netstandard2.0\Engine.pdb
